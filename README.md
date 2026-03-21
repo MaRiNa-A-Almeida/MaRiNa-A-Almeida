@@ -3,8 +3,8 @@
 
 
 
+<img src="https://media.tenor.com/QNcnD8cnwt4AAAAj/lycanroc-midnight-form.gif" width="49%" /> <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/haunter-2.gif" width="49%" />
 
 
 
-![GIF](https://media.tenor.com/QNcnD8cnwt4AAAAj/lycanroc-midnight-form.gif)    
-![GIF](https://www.pkparaiso.com/imagenes/xy/sprites/animados/haunter-2.gif)
+
